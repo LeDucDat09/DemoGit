@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HinhTron {
+public class HinhTron extends hinhhocb {
     float BanKinh;
     final float PI = 3.14f;
     float ChuVi;
